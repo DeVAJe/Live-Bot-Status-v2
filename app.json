@@ -26,7 +26,7 @@
       "description": "Time for sleeping (in minutes)"
     },
     "SESSION_STRING":{
-      "description": "Your session strings"
+      "description": "Your session strings from https://t.me/StringSessionGen_Bot"
     }
   }
 }
